@@ -69,3 +69,4 @@ Para conectar nuestra API con un SaaS operativo sin intervenir ni poner en riesg
 Se utilizó la IA como asistente de pair-programming para estructurar las buenas prácticas del repositorio, optimizar la lógica en la limpieza de datos con Pandas y validar la configuración de FastAPI.
 
 **Nota:** Proyecto entregado para evaluación técnica.
+
